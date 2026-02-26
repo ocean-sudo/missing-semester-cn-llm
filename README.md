@@ -2,7 +2,7 @@
 
 The Missing Semester of Your CS Education 英文课程网站在[这里](https://missing.csail.mit.edu/)！
 
-这是[中文站点](https://missing-semester-cn-llm.github.io)(<span style="float:right"><img src = "https://img.shields.io/badge/最近一次与英文版同步-2026--02--26-green"></span>)
+这是[中文站点](https://missing-semester-cn-llm.oceansudo.com)(<span style="float:right"><img src = "https://img.shields.io/badge/最近一次与英文版同步-2026--02--26-green"></span>)
 
 
 欢迎为本项目做出贡献！如果您要编辑添加内容，请提出 issue 或提交 pull request。

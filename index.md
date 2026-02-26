@@ -83,7 +83,7 @@ excerpt: '' # work around a bug
 ---
 
 <div class="small center">
-<p><a href="https://github.com/ocean-sudo/missing-semester-cn-llm.github.io">Source code</a>.</p>
+<p><a href="https://github.com/ocean-sudo/missing-semester-cn-llm">Source code</a>.</p>
 <p>Licensed under CC BY-NC-SA.</p>
 <p>See <a href="/license">here</a> for contribution &amp; translation guidelines.</p>
 </div>
